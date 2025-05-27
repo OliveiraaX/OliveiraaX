@@ -4,7 +4,7 @@
 Hello everyone👋
 
 </h1>
-<h3 align="center">Im a Software Engineer
+<h3 align="center">Im a Pentester
 </h3>
 
 
@@ -16,13 +16,9 @@ I study DevOps tools and methodologies and Python programming.
 Interesting directions for me:
 
 * **Programming Language:** Python
-* **Orchestration/containerization:** Kubernetes, Docker
-* **Configuration management systems:** Ansible, Terraform
-* **Monitoring:** Prometheus, Grafana
-* **Databases:** PostgreSQL
-* **Virtualization Systems:** Proxmox
-* **Cloud Platform:** Yandex.Cloud, Timeweb
-* **CI/CD:** Gitlab
+* **Orchestration/containerization:** Docker
+* **Configuration management systems:** Ansible
+* **Monitoring:** Zabbix, Grafana
 
 ![Metrics](github-metrics.svg)
 
@@ -33,7 +29,7 @@ Interesting directions for me:
 #### ⤵️ My Contacts:
 
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/akmalov-artur/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/dhiones-487468200/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/AAkmalov" alt="Telegram">
